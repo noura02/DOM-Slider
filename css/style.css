@@ -66,3 +66,10 @@ h6{
         top: 105%;
     }
 }
+
+@media screen and (min-width:400px) and (max-width:798px){
+    #lightBoxItem
+    {
+        height:300px;
+    }
+}
